@@ -5,7 +5,10 @@ I am Wavinya, nerdy,geeky,cerebral girl. I'm a Geologist(study rocks) by profess
 I love music. When I'm not coding, I'm somewhere beautiful either a beach,a restaurant,a house,a car, wining or even fooding
 
 I choose to have faith, because without that, I have nothing… It's the only thing that's keeping me going
+
 You know, we spend so much of our lives not saying the things we want to say, the things we should say. We speak in code and we send little messages
+
+
 
 - 🔭 I’m currently working on ... BuildforSDG 
 - 🌱 I’m currently learning ... React js & Gatsby
