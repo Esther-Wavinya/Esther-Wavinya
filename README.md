@@ -1,6 +1,6 @@
 ### Hello, Nerds 👋
 
-I am Wavinya, nerdy,geeky,cerebral girl. I'm a Geologist(study rocks) by profession but most times you will find my eyes gazing at the laptop or my hands pressing buttons in the keyboard because I love coding. Everything about technology excites me, From developing to developer communities.
+I am Wavinya, nerdy,geeky,cerebral girl. I'm a Geologist(study rocks) by profession but most times you will find my eyes gazing at the laptop or my hands pressing buttons of the keyboard because I love coding. Everything about technology excites me, From developing to developer communities.
 
 I love music. When I'm not coding, I'm somewhere beautiful either a beach,a restaurant,a house,a car,a mountain,a hill, wining or fooding. And when things become overwhelming I love watching movies(series) and some documentaries.
 
