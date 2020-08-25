@@ -5,7 +5,6 @@ I am Wavinya, nerdy,geeky,cerebral girl. I'm a Geologist(study rocks) by profess
 I love music. When I'm not coding, I'm somewhere beautiful either a beach,a restaurant,a house,a car,a mountain,a hill, wining or fooding with family or friends. And when things become overwhelming I love watching movies(series),some documentaries and reading technical articles or even writing.
 
 
-I choose to have faith, because without that, I have nothing… It's the only thing that's keeping me going
 
 You know, we spend so much of our lives not saying the things we want to say, the things we should say. We speak in code and we send little messages
 
