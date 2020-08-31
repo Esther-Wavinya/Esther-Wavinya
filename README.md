@@ -13,8 +13,8 @@ You know, we spend so much of our lives not saying the things we want to say, th
 - 🔭 I’m currently working on ... BuildforSDG 
 - 🌱 I’m currently learning ... React js & Gatsby
 - 👯 I’m looking to collaborate on ... Anything WEB
-- 🤔 I’m looking for help with ... JAM stack, Data Science, UI/UX Design, Spatial analysis, Mobile applications
-- 💬 Ask me about ... Writing, MERN Stack 
+- 🤔 I’m looking for help with ... JAM stack, Data Science, UI/UX Design, Spatial analysis, Mobile applications, DevOps, Backend
+- 💬 Ask me about ... Writing, MERN Stack, Frontend
 - 📫 How to reach me: ... https://twitter.com/S_wavinya & https://www.linkedin.com/in/esther-ndavi-5a4b3214b/
 - 😄 Pronouns: ... Her/She
 - ⚡ Fun fact: ... I'm in an elysian relationship with Jesus Christ
