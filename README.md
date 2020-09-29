@@ -11,7 +11,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 - 🔭 I’m currently working on ... BuildforSDG 
-- 🌱 I’m currently learning ... React js & Gatsby
+- 🌱 I’m currently learning ... React js
 - 👯 I’m looking to collaborate on ... Anything WEB
 - 🤔 I’m looking for help with ... JAM stack, Data Science, UI/UX Design, Spatial analysis, Mobile applications, DevOps, Backend
 - 💬 Ask me about ... Writing, MERN Stack, Frontend
