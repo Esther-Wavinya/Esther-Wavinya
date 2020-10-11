@@ -10,7 +10,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 
-- 🔭 I’m currently working on ... BuildforSDG 
+- 🔭 I’m currently working on ... Frontend mentor challenges
 - 🌱 I’m currently learning ... React js
 - 👯 I’m looking to collaborate on ... Anything WEB
 - 🤔 I’m looking for help with ... JAM stack, Data Science, UI/UX Design, Spatial analysis, Mobile applications, DevOps, Backend
