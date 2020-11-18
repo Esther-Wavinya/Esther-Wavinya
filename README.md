@@ -15,7 +15,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 - 👯 I’m looking to collaborate on ... Anything WEB
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis, Mobile applications, DevOps, Backend
 - 💬 Ask me about ... Technical writing, Frontend development
-- 📫 How to reach me: ... {https://twitter.com/S_wavinya} & {https://www.linkedin.com/in/esther-ndavi-5a4b3214b/}
+- 📫 How to reach me: ... [Twitter](https://twitter.com/S_wavinya) & [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/)
 - 😄 Pronouns: ... Her/She
 - ⚡ Fun fact: ... I'm in an elysian relationship with Jesus Christ
 
