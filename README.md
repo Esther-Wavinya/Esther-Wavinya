@@ -11,7 +11,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 - 🔭 I’m currently working on ... Frontend projects
-- 🌱 I’m currently learning ... React js, UI/UX Design, MERN Stack
+- 🌱 I’m currently learning ... React js, UI/UX Design
 - 👯 I’m looking to collaborate on ... Anything WEB
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis, Mobile applications, DevOps, Backend
 - 💬 Ask me about ... Technical writing, Frontend development
