@@ -13,7 +13,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 - 🔭 I’m currently working on ... Frontend projects
 - 🌱 I’m currently learning ... React js, UI/UX Design
 - 👯 I’m looking to collaborate on ... Anything WEB
-- 🤔 I’m looking for help with ... Data Science, Spatial analysis, Mobile applications, DevOps, Backend
+- 🤔 I’m looking for help with ... Data Science, Spatial analysis, Mobile applications, DevOps
 - 💬 Ask me about ... Technical writing, Frontend 
 - 📫 How to reach me: ... [Twitter](https://twitter.com/S_wavinya) & [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/)
 - 😄 Pronouns: ... Her/She
