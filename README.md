@@ -1,6 +1,6 @@
 ### Hello, Nerds 👋
 
-[Twitter](https://twitter.com/S_wavinya) [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/) [Instagram](https://www.instagram.com/s_wavinya/) 
+[](https://twitter.com/S_wavinya) [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/) [Instagram](https://www.instagram.com/s_wavinya/) 
 
 I am Wavinya, nerdy,cerebral girl. I'm a Petroleum Geoscientist(study rocks) by profession but most times you will find me with my laptop because I love coding. Everything about technology excites me, From developing to developer communities.
 
