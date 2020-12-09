@@ -1,6 +1,6 @@
 ### Hello, Nerds 👋
 
-[](https://twitter.com/S_wavinya) [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/) [Instagram](https://www.instagram.com/s_wavinya/) 
+[Twitter](https://twitter.com/S_wavinya) [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/) [Instagram](https://www.instagram.com/s_wavinya/) 
 
 I am Wavinya, nerdy,cerebral girl. I'm a Petroleum Geoscientist(study rocks) by profession but most times you will find me with my laptop because I love coding. Everything about technology excites me, From developing to developer communities.
 
@@ -19,5 +19,5 @@ You know, we spend so much of our lives not saying the things we want to say, th
 - 💬 Ask me about ... Technical writing, Frontend 
 - 📫 How to reach me: ... [Twitter](https://twitter.com/S_wavinya) & [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/)
 - 😄 Pronouns: ... Her/She
-- ⚡ Fun fact: ... I'm in an elysian relationship with Jesus Christ
+- ⚡ Fun fact: ... It gets easier. Every day, it gets a little easier. But you gotta do it every day – that’s the hard part.
 
