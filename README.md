@@ -13,7 +13,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 - 🔭 I’m currently working on ... Frontend projects
-- 🌱 I’m currently learning ...  Google IT Support🤦‍♀️.
+- 🌱 I’m currently learning ...  Google IT Support.
 - 👯 I’m looking to collaborate on ... Web development
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis, Mobile applications, DevOps
 - 💬 Ask me about ... Technical writing, MERN Stack
