@@ -12,7 +12,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 
-- 🔭 I’m currently working on ... Frontend projects
+- 🔭 I’m currently working on ... Software testing
 - 🌱 I’m currently learning ...  Software in Test, Digital Marketing
 - 👯 I’m looking to collaborate on ... Web development, IT Support, Content writing
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis, Mobile applications
