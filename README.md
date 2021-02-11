@@ -16,7 +16,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 - 🌱 I’m currently learning ...  Software in Test, Digital Marketing
 - 👯 I’m looking to collaborate on ... Web development, IT Support, Content writing
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis
-- 💬 Ask me about ... Technical writing, MERN Stack
+- 💬 Ask me about ...  Web
 - 📫 How to reach me: ... [Twitter](https://twitter.com/S_wavinya) & [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/)
 - 😄 Pronouns: ... Her/She
 - ⚡ Fun fact: ... It gets easier. Every day, it gets a little easier. But you gotta do it every day – that’s the hard part😍.
