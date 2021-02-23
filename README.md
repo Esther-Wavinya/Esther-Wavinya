@@ -12,8 +12,8 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 
-- 🔭 I’m currently working on ... Software testing
-- 🌱 I’m currently learning ...  Software in Test, Digital Marketing
+- 🔭 I’m currently working on ... Automation
+- 🌱 I’m currently learning ...  Automation, Digital Marketing
 - 👯 I’m looking to collaborate on ... Web development, IT Support, Content writing
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis
 - 💬 Ask me about ...  Web
