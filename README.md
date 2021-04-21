@@ -19,5 +19,6 @@ You know, we spend so much of our lives not saying the things we want to say, th
 - 💬 Ask me about ...  MERN Stack, Rocks
 - 📫 How to reach me: ... [Twitter](https://twitter.com/S_wavinya) & [LinkedIn](https://www.linkedin.com/in/esther-ndavi-5a4b3214b/)
 - 😄 Pronouns: ... Her/She
-- ⚡ Fun fact: ... It gets easier. Every day, it gets a little easier. But you gotta do it every day – that’s the hard part😍.
+- ⚡ Fun fact: ... I DANCE A LOT
+- ❤ Bojack Horseman: ... It gets easier. Every day, it gets a little easier. But you gotta do it every day – that’s the hard part😍.
 
