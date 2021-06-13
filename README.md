@@ -4,7 +4,7 @@
 
 I am Wavinya, nerdy,cerebral girl. I'm a Geologist but most times you will find me with my laptop because I love coding. Everything about technology excites me, From creating to developer communities.
 
-I love good music(find me in Spotify & Apple music). When I'm not coding, I'm somewhere beautiful either a beach,a restaurant,a house,a car,a mountain,a hill, wining or fooding with family or friends. And when things become overwhelming I love playing video games,watching movies(series),some documentaries, reading books/articles and journaling.
+I love good music(find me in Spotify & Apple music). When I'm not coding, I'm somewhere beautiful either a beach,a restaurant,a house,a car,a mountain,a hill, wining or fooding with family or friends. And when things become overwhelming I love playing video games,watching movies(series),some documentaries, reading books/articles, journaling and sleeping.
 
 
 
