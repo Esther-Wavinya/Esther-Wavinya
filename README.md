@@ -12,7 +12,7 @@ You know, we spend so much of our lives not saying the things we want to say, th
 
 
 
-- 🔭 I’m currently working on ... I just want to finish school at the moment
+- 🔭 I’m currently working on ... 
 - 🌱 I’m currently learning ...  
 - 👯 I’m looking to collaborate on ... Web development, Content writing
 - 🤔 I’m looking for help with ... Data Science, Spatial analysis
